@@ -1,0 +1,23 @@
+{
+  "name": "print-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claramarsango/ios-print-test.git"
+  },
+  "author": "clari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claramarsango/ios-print-test/issues"
+  },
+  "homepage": "https://github.com/claramarsango/ios-print-test#readme",
+  "dependencies": {
+    "cordova": "^12.0.0",
+    "cordova-plugin-inappbrowser": "^6.0.0"
+  }
+}
